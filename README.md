@@ -1,0 +1,1 @@
+the trick is, get your authorization key by manually authenticating, then update your .env
