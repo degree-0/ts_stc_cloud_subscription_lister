@@ -1,3 +1,4 @@
 .env
 generated.csv
 node_modules/
+old.generated.csv
